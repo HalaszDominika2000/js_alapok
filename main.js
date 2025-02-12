@@ -48,21 +48,3 @@ function hanyfeleTermek() {
 }
 let termekekSzama=hanyfeleTermek()
 console.log(`Ennyi féle termék van: ${termekekSzama}`)
-/*
-function hanytermekVan() {
-    return termekLista.length
-}
-let hanytermekVan=hanytermekVan()
-console.log(`Összessen ennyi termék van: ${termekekSzama}`)
-
-function termekekatlagAra() {
-    return termekLista.length
-}
-let termekekatlagAra=termekekatlagAra()
-console.log(`Termekek atlagara: ${termekekSzama}`)
-
-function legdragabbtermekNeve() {
-    return termekLista.length
-}
-let legdragabbtermekNeve
-console.log(`Legdragabb termek Neve: ${termekekSzama}`)*/ /*rossz*/
